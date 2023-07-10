@@ -1,5 +1,5 @@
-n = input("enter number 1: ") 
-y = input("enter number 2: ")
+n = 10
+y = 15
 ans1 =n+y
 print ("addition of" ,n, "and" ,y, "is" ,ans1)
 ans2 =n-y
